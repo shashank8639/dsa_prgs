@@ -1,6 +1,7 @@
 package com.java_dsa.practice_programs.arrays;
 
 //FindMaxElement.java in practice branch
+//adding one more commented line for practice
 public class FindMaxElement {
  public static void main(String[] args) {
      int[] numbers = {10, 45, 23, 89, 12, 67};
