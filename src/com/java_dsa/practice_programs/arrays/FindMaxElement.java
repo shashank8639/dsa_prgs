@@ -7,6 +7,7 @@ public class FindMaxElement {
      int[] numbers = {10, 45, 23, 89, 12, 67};
      int max = findMax(numbers);
      System.out.println("Maximum element: " + max);
+     System.out.println("========================================");
      System.out.println("Index of max: " + findMaxIndex(numbers));
  }
  
